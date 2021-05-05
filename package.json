@@ -50,7 +50,7 @@
     "@ledgerhq/logs": "^4.60.2",
     "animated": "^0.2.2",
     "async": "^2.6.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-runtime": "^6.26.0",
     "bignumber.js": "^8.1.1",
     "bitcoinjs-lib": "^3.3.2",
