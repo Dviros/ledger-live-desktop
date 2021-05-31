@@ -119,7 +119,7 @@
     "winston": "^3.0.0",
     "winston-transport": "^4.2.0",
     "write-file-atomic": "^2.3.0",
-    "ws": "^6.2.1",
+    "ws": "^7.4.6",
     "zxcvbn": "^4.4.2"
   },
   "devDependencies": {
